@@ -1,12 +1,12 @@
 {
-    "name": "bscmain/bsc-php",
+    "name": "samuncle/bsc-php",
     "description": "Binance Chain operation",
     "type": "1",
 	"homepage": "https://github.com/one-alone/bsctool.git",
     "require": {
         "sc0vu/web3.php": "^0.1.4",
         "web3p/ethereum-tx": "^0.4.2",
-        "guzzlehttp/guzzle": "^6.3"
+        "guzzlehttp/guzzle": "^6.3||^7.0"
     },
 	"license": "MIT",
 	 "authors": [
